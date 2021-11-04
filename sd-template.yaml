@@ -1,0 +1,11 @@
+namespace: yoshwata
+name: test-template
+version: "0.0"
+description: |
+  Test Template
+maintainer: yoshwata@gmail.com
+config:
+  image: node:12
+  steps:
+    - echo: echo hi
+    - echo2: echo hello
