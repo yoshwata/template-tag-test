@@ -1,5 +1,5 @@
 namespace: yoshwata
-name: test-template
+name: yoshwata-test-template
 version: "0.0"
 description: |
   Test Template
